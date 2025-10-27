@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+numpy
+tk
+PyQt5
+loguru
+pytest
+mypy
+black
+pylint
+matplotlib
+pandas

@@ -1,0 +1,13 @@
+{
+    "video_path": "C:/Users/Yenka HP/Desktop/Car speed detection project/input.MP4",
+    "window_width": 1280,
+    "window_height": 720,
+    "known_distance_m": 10.0,
+    "show_speed": true,
+    "speed_unit": "km/h",
+    "frame_skip": 1,
+    "enable_threading": true,
+    "buffer_size": 30,
+    "export_path": "exports",
+    "model_path": "models/yolov8n.pt"
+}
